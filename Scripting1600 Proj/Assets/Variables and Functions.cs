@@ -1,15 +1,14 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class VariablesandFunctions : MonoBehaviour {
+public class VariablesandFunctions : MonoBehaviour 
+{
+	int myInt = 8;
 
-	// Use this for initialization
-	void Start () {
+	void Start () 
+	{
+	Debug.Log (myInt);
 	
 	}
-	
-	// Update is called once per frame
-	void Update () {
-	
-	}
+		
 }
