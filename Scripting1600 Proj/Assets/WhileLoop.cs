@@ -8,7 +8,7 @@ public class WhileLoop : MonoBehaviour {
 
 	void Start () 
 	{
-		while(catsInTheGround > 0);
+		while(catsInTheGround > 0)
 		{
 			Debug.Log("I've buried a cat!");
 			catsInTheGround--;

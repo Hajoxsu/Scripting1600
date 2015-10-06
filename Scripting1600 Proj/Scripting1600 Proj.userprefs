@@ -1,8 +1,8 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\WhileLoop.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\DoWhileLoop.cs">
     <Files>
-      <File FileName="Assets\WhileLoop.cs" Line="11" Column="1" />
+      <File FileName="Assets\DoWhileLoop.cs" Line="16" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
