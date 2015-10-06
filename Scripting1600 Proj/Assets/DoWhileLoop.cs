@@ -5,11 +5,10 @@ public class DoWhileLoop : MonoBehaviour {
 
 
 	void Start () {
-	
-	}
-	
+		bool ShouldContinue = false;
 
-	void Update () {
-	
+		do {
+			print ("I see you!");
+		} while(ShouldContinue == true);
 	}
 }
